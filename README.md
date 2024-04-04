@@ -19,7 +19,7 @@ pip install tensorflow tensorflow_hub matplotlib pillow
 ## Code Structure
 
 - `object_detection.py`: Contains the main code for object detection.
-- `utils.py`: Contains utility functions for image processing and drawing bounding boxes.
+
 
 ## How to Run
 
