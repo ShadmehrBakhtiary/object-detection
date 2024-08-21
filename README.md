@@ -27,11 +27,6 @@ pip install tensorflow tensorflow_hub matplotlib pillow
 2. Run the `object_detection.py` script.
 3. Specify the image URLs for object detection.
 
-## Sample Images
-
-![Image 1](https://upload.wikimedia.org/wikipedia/commons/6/60/Naxos_Taverna.jpg)
-![Image 2](https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Coleoptera_of_the_British_islands_%28Plate_125%29_%288592917784%29.jpg)
-![Image 3](https://upload.wikimedia.org/wikipedia/commons/0/09/The_smaller_British_birds_%288053836633%29.jpg)
 
 ## Acknowledgements
 
