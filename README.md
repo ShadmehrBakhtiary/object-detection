@@ -20,6 +20,13 @@ pip install tensorflow tensorflow_hub matplotlib pillow
 
 - `object_detection.py`: Contains the main code for object detection.
 
+- ## results
+- ![](https://github.com/ShadmehrBakhtiary/object-detection/blob/main/project/image1.png)
+- 
+- ![](https://github.com/ShadmehrBakhtiary/object-detection/blob/main/project/image2.png)
+- 
+- ![](https://github.com/ShadmehrBakhtiary/object-detection/blob/main/project/image3.png)
+
 
 ## How to Run
 
